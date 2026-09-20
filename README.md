@@ -27,7 +27,6 @@ raw-http/
 ```
 
 ## Routes
-
 | Method | Route         | Description   |
 | ------ | ------------- | ------------- |
 | GET    | `/`           | Home page     |
